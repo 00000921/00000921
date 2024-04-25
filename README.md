@@ -2,7 +2,7 @@
 Josue Mejia</a></h1>
 <h3 align="center">Apasionado por la programación, siempre buscando aprender y crear nuevas soluciones innovadoras. Estudiante de informatica :el_salvador: </h3>
 
-<p align="left"> <img src="![Static Badge](https://img.shields.io/badge/:badgeContent)" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Hola" alt="100rabhcsmc" /> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">

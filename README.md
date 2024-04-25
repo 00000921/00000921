@@ -43,8 +43,8 @@ Josue Mejia</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Como hacer una calculadora basica en C++]([https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j](https://dev.to/00000921/titulo-construyendo-una-calculadora-simple-en-c-aprendiendo-los-fundamentos-de-la-programacion-26mp))
-- [Creando un Juego de "X y O" en Java]([https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1](https://dev.to/00000921/creando-un-juego-de-x-y-o-en-java-aprende-a-programar-divirtiendote-3p5p))
+- [Como hacer una calculadora basica en C++](https://dev.to/00000921/titulo-construyendo-una-calculadora-simple-en-c-aprendiendo-los-fundamentos-de-la-programacion-26mp)
+- [Creando un Juego de "X y O" en Java](https://dev.to/00000921/creando-un-juego-de-x-y-o-en-java-aprende-a-programar-divirtiendote-3p5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---

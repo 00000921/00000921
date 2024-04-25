@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a target="blank">
 Josue Mejia</a></h1>
 <h3 align="center">Apasionado por la programación, siempre buscando aprender y crear nuevas soluciones innovadoras. Estudiante de informatica :el_salvador: </h3>
-
-<p align="left"> <img src="https://www.ceboix.org/wp-content/uploads/2020/01/excursio.gif" alt="100rabhcsmc" /> </p>
+<a target="_blank" align="center">
+<p> <img align="left" top="50" height="30" width="40" src="https://cdn.pixabay.com/animation/2022/08/14/03/55/03-55-37-192_512.gif" alt="El salvador" /> </p>
+</a>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">

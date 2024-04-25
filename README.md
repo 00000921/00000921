@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a target="blank">
 Josue Mejia</a></h1>
-<h3 align="center">Apasionado por la programación, siempre buscando aprender y crear nuevas soluciones innovadoras. Estudiante de informatica El Salvador *sv* </h3>
+<h3 align="center">Apasionado por la programación, siempre buscando aprender y crear nuevas soluciones innovadoras. Estudiante de informatica El Salvador sv </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
